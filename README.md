@@ -1,6 +1,6 @@
 # Telegram bitcoin bot
 
-This Python powered bitcoin bot provides information such as account balance, account historic or even real-time exange rates and bitcoin conversion to other currencies.
+This Python powered bitcoin bot provides information such as account balance, account historic or even real-time exchange rates and bitcoin conversion to other currencies.
 
 ## About the project
 

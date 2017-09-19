@@ -40,6 +40,7 @@ Congratulation, your bitcoin Telegram bot is Ready !
 
 ## Features
 
+<div class=Row>
 <div class="col-md-6 col-lg-6">
                                     <img src="../master/screenshot/bot.png" alt="bot" height="500" class="img-rounded" />
                                     <p>/balance and /ticker command</p>
@@ -56,3 +57,4 @@ Congratulation, your bitcoin Telegram bot is Ready !
                                     <img src="../master/screenshot/bot_historic.png" alt="bot" height="500" class="img-rounded" />
                                     <p>/historic command</p>
                                 </div>
+</div>

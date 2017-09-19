@@ -42,5 +42,5 @@ Congratulation, your bitcoin Telegram bot is Ready !
 
 /balance and /ticker commands             |  /convert command         |/convert specific keyboard | /historic command
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-<img src="../master/screenshot/bot.png" height="400">  |  <img src="../master/screenshot/bot_conversion.png" height="400"> | <img src="../master/screenshot/bot_conversion_keyboard.png" height="400"> | <img src="../master/screenshot/bot_historic.png" height="400">
+<img src="../master/screenshot/bot.png">  |  <img src="../master/screenshot/bot_conversion.png"> | <img src="../master/screenshot/bot_conversion_keyboard.png"> | <img src="../master/screenshot/bot_historic.png">
 

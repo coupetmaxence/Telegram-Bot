@@ -37,3 +37,7 @@ The last step is to replace the value of TOKEN at the line 15 of the Python scri
 Congratulation, your bitcoin Telegram bot is Ready !
 
 <b>Note :</b> Be aware that you need the script to be run on a computer for the bot to work.
+
+## Features
+
+![bot](//screenshot/bot.png)

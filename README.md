@@ -40,4 +40,4 @@ Congratulation, your bitcoin Telegram bot is Ready !
 
 ## Features
 
-![bot](//screenshot/bot.png)
+[[https://github.com/coupetmaxence/Telegram-Bot/blob/master/screenshot/bot.png|alt=octocat]]

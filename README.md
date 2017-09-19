@@ -40,4 +40,7 @@ Congratulation, your bitcoin Telegram bot is Ready !
 
 ## Features
 
-[[https://github.com/coupetmaxence/Telegram-Bot/blob/master/screenshot/bot.png|alt=octocat]]
+<div class="col-md-6 col-lg-4">
+                                    <img src="../sreenshot/bot.png" alt="bot" height="500" class="img-rounded" />
+                                    <p>Commandes /balance et /ticker</p>
+                                </div>

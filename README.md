@@ -40,7 +40,19 @@ Congratulation, your bitcoin Telegram bot is Ready !
 
 ## Features
 
-<div class="col-md-6 col-lg-4">
+<div class="col-md-6 col-lg-6">
                                     <img src="../master/screenshot/bot.png" alt="bot" height="500" class="img-rounded" />
-                                    <p>Commandes /balance et /ticker</p>
+                                    <p>/balance and /ticker command</p>
+                                </div>
+<div class="col-md-6 col-lg-6">
+                                    <img src="../master/screenshot/bot_conversion.png" alt="bot" height="500" class="img-rounded" />
+                                    <p>/convert command</p>
+                                </div>
+<div class="col-md-6 col-lg-6">
+                                    <img src="../master/screenshot/bot_conversion_keyboard.png" alt="bot" height="500" class="img-rounded" />
+                                    <p>conversion specific keyboard</p>
+                                </div>
+<div class="col-md-6 col-lg-6">
+                                    <img src="../master/screenshot/bot_historic.png" alt="bot" height="500" class="img-rounded" />
+                                    <p>/historic command</p>
                                 </div>

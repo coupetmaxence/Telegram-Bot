@@ -38,26 +38,9 @@ Congratulation, your bitcoin Telegram bot is Ready !
 
 <b>Note :</b> Be aware that you need the script to be run on a computer for the bot to work.
 
-## Features
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-<img src="../master/screenshot/bot.png" height="400">  |  <img src="../master/screenshot/bot.png" height="400">
-<img src="../master/screenshot/bot.png" height="400">
-<div class=Row>
-<div class="col-md-6 col-lg-6">
-                                    <img src="../master/screenshot/bot.png" alt="bot" height="500" class="img-rounded" />
-                                    <p>/balance and /ticker command</p>
-                                </div>
-<div class="col-md-6 col-lg-6">
-                                    <img src="../master/screenshot/bot_conversion.png" alt="bot" height="500" class="img-rounded" />
-                                    <p>/convert command</p>
-                                </div>
-<div class="col-md-6 col-lg-6">
-                                    <img src="../master/screenshot/bot_conversion_keyboard.png" alt="bot" height="500" class="img-rounded" />
-                                    <p>conversion specific keyboard</p>
-                                </div>
-<div class="col-md-6 col-lg-6">
-                                    <img src="../master/screenshot/bot_historic.png" alt="bot" height="500" class="img-rounded" />
-                                    <p>/historic command</p>
-                                </div>
-</div>
+## Screenshots
+
+/balance and /ticker commands             |  /convert command         |/convert specific keyboard | /historic command
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+<img src="../master/screenshot/bot.png" height="400">  |  <img src="../master/screenshot/bot_conversion.png" height="400"> | <img src="../master/screenshot/bot_conversion_keyboard.png" height="400"> | <img src="../master/screenshot/bot_historic.png" height="400">
+

@@ -39,7 +39,9 @@ Congratulation, your bitcoin Telegram bot is Ready !
 <b>Note :</b> Be aware that you need the script to be run on a computer for the bot to work.
 
 ## Features
-
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+<img src="../master/screenshot/bot.png" height="400">  |  <img src="../master/screenshot/bot.png" height="400">
 <img src="../master/screenshot/bot.png" height="400">
 <div class=Row>
 <div class="col-md-6 col-lg-6">
